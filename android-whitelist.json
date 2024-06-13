@@ -2003,7 +2003,7 @@
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "com\\.mercadolibre\\.android\\.andes_integrations",
       "name": "integrations-compose",
-      "version": "mercadopago-4\\.\\+|mercadolibre-4\\.\\+"
+      "version": "mercadopago-4\\.\\+|mercadolibre-4\\.\\+|mercadolibre-EXPERIMENTAL-4\\.2\\.0-20240612191843"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.discounts_touchpoint",
