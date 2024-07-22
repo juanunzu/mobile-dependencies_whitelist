@@ -2040,7 +2040,7 @@
         "com.mercadolibre.android.tetris",
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "group": "com\\.mercadolibre\\.android\\.andesui",
       "name": "components-compose",
@@ -2064,7 +2064,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",  
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "expires": "2024-08-05",
@@ -2079,7 +2079,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",  
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "com\\.mercadolibre\\.android\\.andes_integrations",
@@ -3814,7 +3814,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose",
@@ -3830,7 +3830,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.foundation",
@@ -3845,7 +3845,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.material3",
@@ -3869,7 +3869,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.activity",
@@ -3885,7 +3885,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.ui",
@@ -3900,7 +3900,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.runtime",
@@ -3915,7 +3915,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.ui",
@@ -3930,7 +3930,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.ui",
@@ -3944,7 +3944,7 @@
         "com.mercadolibre.android.tetris",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.compose\\.ui",
@@ -3968,7 +3968,7 @@
         "com.mercadolibre.android.auth_native_sso",
         "com.mercadolibre.android.vpp",
         "com.mercadolibre.android.everest_canvas",
-        "com.mercadolibre.android.andesui.compose.configurator"
+        "com.mercadolibre.android.andesui.compose.configurator", "com.mercadolibre.android.configuration"
       ],
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "androidx\\.lifecycle",
