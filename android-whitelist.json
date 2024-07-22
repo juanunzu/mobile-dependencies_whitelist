@@ -2049,12 +2049,12 @@
       "expires": "2024-08-05",
       "group": "com\\.mercadolibre\\.android\\.andes_integrations",
       "name": "integrations",
-      "version": "mercadopago-5\\.\\+|mercadolibre-5\\.\\+"
+      "version": "mercadopago-EXPERIMENTAL-5\\.\\+|mercadolibre-EXPERIMENTAL-5\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.andes_integrations",
       "name": "integrations",
-      "version": "mercadopago-6\\.\\+|mercadolibre-6\\.\\+"
+      "version": "mercadopago-EXPERIMENTAL-6\\.\\+|mercadolibre-EXPERIMENTAL-6\\.\\+"
     },
     {
       "allows_granular_projects": [
@@ -2070,7 +2070,7 @@
       "expires": "2024-08-05",
       "group": "com\\.mercadolibre\\.android\\.andes_integrations",
       "name": "integrations-compose",
-      "version": "mercadopago-5\\.\\+|mercadolibre-5\\.\\+"
+      "version": "mercadopago-EXPERIMENTAL-5\\.\\+|mercadolibre-EXPERIMENTAL-5\\.\\+"
     },
     {
       "allows_granular_projects": [
@@ -2085,7 +2085,7 @@
       "description": "Only for EARLY ADOPTERS. Communicate with Frontend Platform declarative squad before adding your project.",
       "group": "com\\.mercadolibre\\.android\\.andes_integrations",
       "name": "integrations-compose",
-      "version": "6\\.\\+"
+      "version": "EXPERIMENTAL-6\\.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.discounts_touchpoint",
